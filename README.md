@@ -5,7 +5,7 @@
    + Eklenen maddeleri tamamlandı şeklinde işaretleyebilme *(checked)* fonksiyonu ekledim.
       + Tamamlanan maddelerin hepsini kaldırıp geri alabilme fonksiyonu ekledim.
        + Enter tuşuyla veri girişi fonksiyonu ekledim.
-        + Çok fazla madde varsa belirli bir aşağıya inilince yukarı çıkma tuşu fonksiyonu ekledim.
+        + girilen veri sayısı ekrana sığmayacak şekilde aşağıya taştığında scrollbar oluştuktan sonra daha da belirli bir ölçüde aşağıya inilmeye devam ederse en başa gelebilme özelliğinde bir buton ***/*** fonksiyon ekledim.
         + Tamamlandı olarak işaretlenen maddeleri listenin en aşağısında gözükecek şekilde yazdım.
      + Veri giriş kısmındaki yazıyı tamamen silme butonu ekledim.
  
