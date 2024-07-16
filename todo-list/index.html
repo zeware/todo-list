@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="abc">    
+        <div class="todo">
+            <h2>To-Do List <img src="todo-list/silly-cat.gif"><img src="todo-list/Tangoo_Kitten_with_Roses_800x.webp" position="relative"></h2> 
+            <div class="row">
+                <input type="text" id="input-box" >
+                <button onclick="MaddeEkle()" id="ek">Ekle</button>
+                <button onclick="document.getElementById('input-box').value = ''" id="cli">x</button>
+            </div>
+            <div class="raw" >
+                <button onclick="MaddeSil()" id="sil">Temizle</button>
+                <button onclick="Kaldir()" id="kal" class="kal1"><span class="tooltiptext">işaretlenen maddelerinin hepsini kaldırır ve geri ekler</span></a>↯</button>
+            </div>
+            <ul id="abcd", class="zey">
+                <li>1</li>
+                <li>2</li>
+            </ul>
+        </div> 
+                    <button onclick="topFunction()" id="myBtn" title="Go to top">🠩</button>
+
+    </div>
+    <script src="script.js">
+    </script>
+</body>
+</html>
