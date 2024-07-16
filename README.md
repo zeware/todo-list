@@ -1,6 +1,6 @@
                                                #README
 + scrollTop, forEach(),alert, appendChild(), toggle, remove(), setAttribute(), getAttribute() metotlarını kullandım.
- + Madde ekleme ve silme butonları ekledim./fonksiyonları yaptım. ***(tek tek veya hepsini silebilirsin.)***
+ + Madde ekleme ve silme butonları ekledim.***/*** fonksiyonları yaptım. ***(tek tek veya hepsini silebilirsin.)***
   + Eklenen maddelere sonradan düzenlenebilme fonksiyonu ekledim.
    + Eklenen maddeleri tamamlandı şeklinde işaretleyebilme *(checked)* fonksiyonu ekledim.
       + Tamamlanan maddelerin hepsini kaldırıp geri alabilme fonksiyonu ekledim.
